@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://obicuehu.github.io/sitemap_index.obicuehu
